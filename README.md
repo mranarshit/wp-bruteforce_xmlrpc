@@ -1,5 +1,4 @@
-# wp-bruteforce_xmlrpc
-Wordpress brute force with xmlrpc methode 
+#Wordpress brute force with xmlrpc methode 
 
 ABOUT DEVELOPER
 ----
