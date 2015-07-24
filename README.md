@@ -1,4 +1,4 @@
-#Wordpress brute force with xmlrpc methode 
+Wordpress brute force with xmlrpc method
 
 ABOUT DEVELOPER
 ----
